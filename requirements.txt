@@ -1,5 +1,4 @@
-aiohttp>=3.10.1,==3.10.*
-pycryptodome>=3.20.0,==3.20.*
+aiohttp>=3.11.9,==3.11.*
+pycryptodome>=3.21.0,==3.21.*
 async-class>=0.5.0,==0.5.*
 voluptuous>=0.15.2,==0.15.*
-
