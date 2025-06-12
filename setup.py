@@ -14,9 +14,9 @@ setup(
     description="An asynchronous API client library for Remootio (http://www.remootio.com/)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ivgg-me/aioremootio",
-    author="Gergö Gabor Ilyes-Veisz",
-    author_email="i@ivgg.me",
+    url="https://github.com/yarafie/aioremootio",
+    author="Gergö Gabor Ilyes-Veisz (Modified by @yarafie)",
+    author_email="yarafie@gmail.com",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Framework :: AsyncIO",
@@ -26,6 +26,7 @@ setup(
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
         "Programming Language :: Python :: 3.12",
+        "Programming Language :: Python :: 3.13",
         "Topic :: Home Automation",
         "Topic :: Software Development :: Libraries"
     ],
@@ -35,7 +36,7 @@ setup(
     python_requires=">=3.8",
     install_requires=install_requires,
     project_urls={
-        "Bug Tracker": "https://github.com/ivgg-me/aioremootio/issues",
-        "Source": "https://github.com/ivgg-me/aioremootio/"
+        "Bug Tracker": "https://github.com/yarafie/aioremootio/issues",
+        "Source": "https://github.com/yarafie/aioremootio/"
     }
 )
